@@ -15,4 +15,4 @@ for i, x in enumerate(string[::-1]):
         counter = 1
         break
 if counter == 1:
-    print(f'Индекс последнего вхождения символа: {len(string)-i}')
+    print(f'Индекс последнего вхождения символа: {len(string)-i + 1}')
