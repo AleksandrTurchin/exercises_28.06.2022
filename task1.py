@@ -5,5 +5,5 @@ counter = 0
 
 for i in string:
     if i == symbol:
-        counter += 1  
+        counter += 1
 print(f'Количесвто вхождений в символа в строку: {counter}')

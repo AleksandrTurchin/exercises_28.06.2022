@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="318d2c24-67bd-492d-9f4d-3fc467748db2" name="Changes" comment="пытаюсь разобрать со вторым заданием.. что-то загуглил, но пока не могу с этим разобраться.." />
+    <list default="true" id="318d2c24-67bd-492d-9f4d-3fc467748db2" name="Changes" comment="Сделал сумму (len(string)-i + 1) с единицей т.к. не корректный был результат.&#10;Сделал второе задание. Задать пару вопросов: counter = 1?&#10;len(string)-i?">
+      <change afterPath="$PROJECT_DIR$/enumerate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.1">
+  <component name="RunManager" selected="Python.task1">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercises_28.06.2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -48,6 +51,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="enumerate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exercises_28.06.2022" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/enumerate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exercises_28.06.2022" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,8 +124,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1" />
+        <item itemvalue="Python.task1" />
+        <item itemvalue="Python.enumerate" />
         <item itemvalue="Python.task2" />
+        <item itemvalue="Python.1" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +147,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656614569213</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Сделал второе задание. Задать пару вопросов: counter = 1?&#10;len(string)-i?">
+      <created>1656778698332</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656778698332</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Сделал сумму (len(string)-i + 1) с единицей т.к. не корректный был результат.&#10;Сделал второе задание. Задать пару вопросов: counter = 1?&#10;len(string)-i?">
+      <created>1656779070818</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656779070818</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +177,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="пытаюсь разобрать со вторым заданием.. что-то загуглил, но пока не могу с этим разобраться.." />
-    <option name="LAST_COMMIT_MESSAGE" value="пытаюсь разобрать со вторым заданием.. что-то загуглил, но пока не могу с этим разобраться.." />
+    <MESSAGE value="Сделал второе задание. Задать пару вопросов: counter = 1?&#10;len(string)-i?" />
+    <MESSAGE value="Сделал сумму (len(string)-i + 1) с единицей т.к. не корректный был результат.&#10;Сделал второе задание. Задать пару вопросов: counter = 1?&#10;len(string)-i?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделал сумму (len(string)-i + 1) с единицей т.к. не корректный был результат.&#10;Сделал второе задание. Задать пару вопросов: counter = 1?&#10;len(string)-i?" />
   </component>
 </project>
