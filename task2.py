@@ -3,6 +3,13 @@ symbol = input('Введите символ: ').lower()
 
 counter = 0
 
+for i, x in enumerate(string):
+    if x == symbol:
+        counter = 1
+        break
+if counter == 1:
+    print(f'Индекс первого вхождения символа: {i}')
+
 for i, x in enumerate(string[::-1]):
     if x == symbol:
         counter = 1

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="318d2c24-67bd-492d-9f4d-3fc467748db2" name="Changes" comment="" />
+    <list default="true" id="318d2c24-67bd-492d-9f4d-3fc467748db2" name="Changes" comment="пытаюсь разобрать со вторым заданием.. что-то загуглил, но пока не могу с этим разобраться.." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,6 +93,29 @@
       <option name="presentableId" value="Default" />
       <updated>1656602629848</updated>
     </task>
+    <task id="LOCAL-00001" summary="пытаюсь разобрать со вторым заданием.. что-то загуглил, но пока не могу с этим разобраться..">
+      <created>1656614569212</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656614569213</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="пытаюсь разобрать со вторым заданием.. что-то загуглил, но пока не могу с этим разобраться.." />
+    <option name="LAST_COMMIT_MESSAGE" value="пытаюсь разобрать со вторым заданием.. что-то загуглил, но пока не могу с этим разобраться.." />
   </component>
 </project>
